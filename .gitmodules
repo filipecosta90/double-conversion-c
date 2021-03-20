@@ -1,0 +1,3 @@
+[submodule "deps/double-conversion"]
+	path = deps/double-conversion
+	url = https://github.com/google/double-conversion
